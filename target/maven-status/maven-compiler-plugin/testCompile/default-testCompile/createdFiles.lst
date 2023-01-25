@@ -1,0 +1,17 @@
+com\RightsfuAlly\TestCases\SignInViaSmsWithEmailVerification.class
+com\RightsfuAlly\TestCases\SignInViaSmsWithEmailVerificationLater.class
+com\RightsfuAlly\PageObject\OtpVerificationPage.class
+com\RightsfuAlly\Utilities\AnnotationTransformer.class
+com\RightsfuAlly\TestCases\SignInViaSMS.class
+com\RightsfuAlly\Utilities\ReadExcel.class
+com\RightsfuAlly\TestCases\SignInViaEmail.class
+com\RightsfuAlly\TestCases\openUrl.class
+com\RightsfuAlly\Utilities\RetryAnalyzer.class
+com\RightsfuAlly\PageObject\SignInPage.class
+com\RightsfuAlly\Utilities\Readconfig.class
+com\RightsfuAlly\TestCases\SignInViaEmailWithMobileVerificationLater.class
+com\RightsfuAlly\PageObject\HomePage.class
+com\RightsfuAlly\Utilities\DataProviderClass.class
+com\RightsfuAlly\Utilities\ExtentListenerClass.class
+com\RightsfuAlly\PageObject\VerifyLaterPage.class
+com\RightsfuAlly\TestCases\SignInViaEmailWithMobileVerification.class
